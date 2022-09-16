@@ -1,4 +1,8 @@
 •  What is a gitignore file and what should it include for a Java project? 
+when we need git to ignore a type of file we use the gitignore file
 •  What does fast-forward in git mean? 
+it merges the main branchs tip forward to your end of feature branch
 •  Why should you have different branches? 
+so that we can configure the build system to support different editions
 •  In a project how many remote Git repositories do you usually have? 
+there can be multiple remote Git repositories
